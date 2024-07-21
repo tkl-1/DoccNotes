@@ -1,0 +1,10 @@
+@Tutorials(name: "XCode File Template: iOS Uygulama Geliştirme Süreçlerinizi Verimli Hale Getirin") {
+    @Intro(title: "Tutorial Introduction") {
+      Geliştirme sürecinde her ayrıntının önemli olduğu bir dünyada yaşıyoruz. Bu karmaşık süreçte, verimliliği ve tutarlılığı artırmak için araçlardan en iyi şekilde yararlanmak gerekiyor. Bu yazıda, iOS uygulama geliştirme sürecini daha düzgün, hızlı ve hatasız hale getirmek için Xcode'un Custom File Template'lerinin nasıl kullanılacağını ele alacağız. Yeni başlayanlardan deneyimli geliştiricilere kadar herkesin işine yarayacak bu bilgilerle, projenizdeki geliştirme sürecini daha verimli hale getirebilirsiniz.
+      @Image(source: "create-certificates.png")
+    }
+    
+    @Chapter(name: Templates) {
+        @TutorialReference(tutorial: "doc:FileTemplates")
+    }
+}

@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "bab79df5d965e704",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8a71ed768613fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f5c1b73cb713ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DoccNotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c70c58cfb746151",
+    "type": "split",
+    "children": [
+      {
+        "id": "c91908f35828bbb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0085a823fc9d08b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8184a70f7e3afccc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8380f026b1cef540",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86cbf0dd2de701af",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eb1c84c354d0b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ada6b4499cbc15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DoccNotes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a5d4cf9f9e09c77",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DoccNotes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af22dbc550d6e821",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74e3fb6ce3f996e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DoccNotes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "canvas:Yeni tuval oluşturun": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false
+    }
+  },
+  "active": "0085a823fc9d08b0",
+  "lastOpenFiles": [
+    "Resources/Tutorials/Tutorial2/page-02.tutorial",
+    "Resources/Tutorials/Tutorial2/tutorial2-toc.tutorial",
+    "Resources/Tutorials/Tutorial1/tutorial1-toc.tutorial",
+    "Resources/Tutorials/Tutorial1/tutorial1.tutorial",
+    "Resources/Tutorials/Tutorial2/table-of-contents.tutorial",
+    "Resources/Tutorials/Tutorial2/page-01.tutorial",
+    "Resources/Tutorials/Tutorial2",
+    "Resources/Tutorials/Tutorial1 copy/table-of-contents.tutorial",
+    "Resources/Tutorials/Tutorial1 copy/page-01.tutorial",
+    "Resources/Tutorials/Tutorial1 copy",
+    "Resources/Tutorials/Tutorial1/table-of-contents.tutorial",
+    "Resources/Articles/Sertifika.md",
+    "DoccNotes.md"
+  ]
+}
